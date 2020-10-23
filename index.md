@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /
 ---
 
 My name is André Fernández. I'm a film and television producer and founder of [Intercept Entertainment](https://intercept-ent.com).
