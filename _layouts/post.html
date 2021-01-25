@@ -12,6 +12,9 @@
         <div class="divider"></div>
       {{ content }}
       </article>
+    <div style="text-align: center;">
+      {% include newsletter.html %}
+    </div>
       <div class="page-navigation code">
         {% if page.previous.url %}
         <a class="prev" href="{{page.previous.url}}" title="PREV: {{page.previous.title}}"><<</a>
